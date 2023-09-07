@@ -1,0 +1,11 @@
+// 3.create Array with constructor
+let x = new Array()
+console.log(x)
+console.log(x.length)
+const y = new Array(5)
+console.log(y.length)
+console.log(y[0])
+const z = new Array(10, "A")
+console.log(z.length)
+console.log(z[0])
+console.log(z[1])
